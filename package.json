@@ -1,8 +1,12 @@
 {
   "name": "react-data-charts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Collection of simple charts for rendering data collections in React.",
   "main": "dist/index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/rrostt/react-data-charts"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
