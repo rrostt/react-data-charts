@@ -19,9 +19,6 @@ import React from 'react';
 import { DataXYChart } from 'react-data-charts';
 
 export default class SimpleGraph extends React.Component {
-  constructor(props) {
-  }
-
   render() {
     var data = [
       {
